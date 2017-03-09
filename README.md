@@ -1,4 +1,4 @@
-# Projet CV
+# Calculatrice 101
 
 ## Objectif :
 
