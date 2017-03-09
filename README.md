@@ -18,7 +18,7 @@ Réaliser les fonctions relative à une calculatrice :
 ## Exercice :
 
 - ***Step 1:*** Créer un fichier index.html à la racine de votre document et un dossier "js" qui contiendra un fichier app.js.
-- ***Step 2:*** Liée le fichier index.html et app.js.
+- ***Step 2:*** Lier le fichier index.html et app.js.
 - ***Step 3:***Créer une repository sur Github, puis envoyé y le fichier index.html et le dossier "js".
 
 ***Pousser sur github des que vous réalisez une des steps !***
