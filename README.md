@@ -2,7 +2,7 @@
 
 ## Objectif :
 
-Réaliser les fonctions relative à un calculatrice :
+Réaliser les fonctions relative à une calculatrice :
 
 - addition
 - soustraction
@@ -13,6 +13,7 @@ Réaliser les fonctions relative à un calculatrice :
 
 - Faire la découverte des fonctions en JS
 - Faire la découverte des conditions en JS
+- Step by Step
 
 ## Exercice :
 
